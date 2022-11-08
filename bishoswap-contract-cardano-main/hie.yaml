@@ -1,0 +1,6 @@
+cradle:
+  cabal:
+    - path: "./app/bishoswap-pab.hs"
+      component: "exe:bishoswap-pab"
+    - path: "./app/bishoswap-client.hs"
+      component: "exe:bishoswap-client"
